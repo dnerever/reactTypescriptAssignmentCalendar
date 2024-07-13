@@ -6,6 +6,7 @@ A calendar app custom made for tracking school assignments
 1. Create basic calendar app w/ React and Typescript
 2. ???
 
+
 ## Idea
 - events with assignment specific fields
 	- assignment name
@@ -21,3 +22,6 @@ A calendar app custom made for tracking school assignments
 - api connection to auto pull assignments?
 - filter options for class types or non-school events
 
+
+## Resources
+- [React Calendar by Martin Persson](https://dev.to/martinpersson/react-material-ui-create-a-dynamic-calendar-with-integrated-todos-6cm)
